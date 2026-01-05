@@ -4,7 +4,7 @@ import requests
 # ⚠️ When running locally
 API_URL = "http://localhost:8000/predict"
 
-st.title("Loksai MLOps Feedback Analyzer")
+st.title("MLOps Feedback Analyzer")
 
 text = st.text_area("Enter feedback")
 
